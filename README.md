@@ -1,7 +1,6 @@
 # SDDM theme based on breeze to fit EndeavourOS KDE plasma setup
 
-![preview.png](https://github.com/endeavouros-team/eos-breeze-sddm/blob/main/eos-breeze/endeavouros-wallpaper.png?raw=true)
+![preview.png](https://raw.githubusercontent.com/endeavouros-team/eos-breeze-sddm/refs/heads/main/eos-breeze/preview.png)
 
-https://github.com/endeavouros-team/eos-breeze-sddm/blob/main/eos-breeze/endeavouros-wallpaper.png?raw=true
 
 Package: https://github.com/endeavouros-team/PKGBUILDS/tree/master/eos-breeze-sddm
