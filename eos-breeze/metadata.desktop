@@ -13,6 +13,6 @@ MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=info@endeavouros.com
-Theme-Id=eos-breeze
+Theme-Id=breeze
 Theme-API=2.0
 QtVersion=6
